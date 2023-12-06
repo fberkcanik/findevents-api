@@ -11,6 +11,7 @@ origins = [
     "http://localhost",
     "http://localhost:3000",
     "http://localhost:8080",
+    "https://demo1.fullstacksamurai.online"
 ]
 
 app.add_middleware(
