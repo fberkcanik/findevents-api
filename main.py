@@ -10,7 +10,7 @@ html = f"""
 <!DOCTYPE html>
 <html>
     <head>
-        <title>FastAPI on Vercel</title>
+        <title>findEvents API | FastAPI Vercel</title>
         <link rel="icon" href="/static/favicon.ico" type="image/x-icon" />
     </head>
     <body>
@@ -18,9 +18,9 @@ html = f"""
             <h1>Hello from FastAPI@{__version__}</h1>
             <ul>
                 <li><a href="/docs">/docs</a></li>
-                <li><a href="/redoc">/redoc</a></li>
+                 
             </ul>
-            <p>Powered by <a href="https://vercel.com" target="_blank">Vercel</a></p>
+            
         </div>
     </body>
 </html>
@@ -33,3 +33,8 @@ async def root():
 @app.get('/ping')
 async def hello():
     return {'res': 'pong', 'version': __version__, "time": time()}
+
+""" Returns an array of events """
+@app.get("/events")
+async def get_events():
+    return {"events": ["Event 1", "Event 2"]}
