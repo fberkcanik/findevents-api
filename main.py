@@ -120,7 +120,7 @@ async def get_events():
         "category": "Sergi",
         "tags": ["fotoğraf", "doğa"],
         "latlng": [36.8969, 30.7133],
-        "date": "2023-03-15",
+        "date": "2024-03-15",
         "time": "14:00:00",
         "price": 0.0
     },
@@ -137,7 +137,7 @@ async def get_events():
         "category": "Konser",
         "tags": ["müzik", "rock"],
         "latlng": [40.1824, 29.0670],
-        "date": "2023-02-25",
+        "date": "2024-02-25",
         "time": "18:00:00",
         "price": 75.0
     },
@@ -154,7 +154,7 @@ async def get_events():
         "category": "Online Seminer",
         "tags": ["sağlık", "yoga"],
         "latlng": [38.9637, 35.2433],
-        "date": "2023-04-10",
+        "date": "2024-04-10",
         "time": "17:30:00",
         "price": 0.0
     },
@@ -171,7 +171,7 @@ async def get_events():
         "category": "Workshop",
         "tags": ["teknoloji", "inovasyon"],
         "latlng": [41.0082, 28.9784],
-        "date": "2023-04-20",
+        "date": "2024-04-20",
         "time": "14:00:00",
         "price": 30.0
     },
@@ -188,7 +188,7 @@ async def get_events():
         "category": "Konser",
         "tags": ["müzik", "klasik"],
         "latlng": [39.9334, 32.8597],
-        "date": "2023-03-30",
+        "date": "2024-03-30",
         "time": "20:00:00",
         "price": 55.0
     },
@@ -205,7 +205,7 @@ async def get_events():
         "category": "Atölye",
         "tags": ["fotoğraf", "eğitim"],
         "latlng": [38.4192, 27.1287],
-        "date": "2023-04-05",
+        "date": "2024-04-05",
         "time": "16:30:00",
         "price": 40.0
     },
@@ -222,7 +222,7 @@ async def get_events():
         "category": "Konferans",
         "tags": ["bilim", "uzay"],
         "latlng": [40.1824, 29.0670],
-        "date": "2023-03-25",
+        "date": "2024-03-25",
         "time": "19:00:00",
         "price": 25.0
     },
@@ -239,7 +239,7 @@ async def get_events():
         "category": "Konser",
         "tags": ["müzik", "elektronik"],
         "latlng": [41.0082, 28.9784],
-        "date": "2023-05-12",
+        "date": "2024-05-12",
         "time": "22:00:00",
         "price": 70.0
     },
@@ -256,7 +256,7 @@ async def get_events():
         "category": "Atölye",
         "tags": ["sanat", "heykel"],
         "latlng": [39.9334, 32.8597],
-        "date": "2023-06-05",
+        "date": "2024-06-05",
         "time": "14:00:00",
         "price": 45.0
     },
@@ -273,7 +273,7 @@ async def get_events():
         "category": "Gösteri",
         "tags": ["komedi", "eğlence"],
         "latlng": [38.4192, 27.1287],
-        "date": "2023-05-20",
+        "date": "2024-05-20",
         "time": "19:30:00",
         "price": 35.0
     },
@@ -290,7 +290,7 @@ async def get_events():
         "category": "Festival",
         "tags": ["müzik", "folk"],
         "latlng": [40.1824, 29.0670],
-        "date": "2023-06-15",
+        "date": "2024-06-15",
         "time": "17:00:00",
         "price": 55.0
     },
@@ -307,7 +307,7 @@ async def get_events():
         "category": "Workshop",
         "tags": ["gastronomi", "yemek"],
         "latlng": [36.8969, 30.7133],
-        "date": "2023-07-01",
+        "date": "2024-07-01",
         "time": "16:00:00",
         "price": 60.0
     },
